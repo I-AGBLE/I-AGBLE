@@ -1,6 +1,6 @@
 # 💫 I am Isak AGBLE
 I am a freelance Web Application Developer and Computer Programming Tutor based in  Accra-Ghana with a multidisciplinary background that uniquely blends creativity and technical skills. 
-I earned a Professional Diploma in Film and Television Techniques in 2020, specializing in Cinematography, Motion Picture Editing, and Film Sound Design. This foundation sharpened my eye for detail, structure, and appealing user experience thereby influencing my work in software development today.
+I earned a Professional Diploma in Film and Television Techniques in 2020, specializing in Cinematography, Motion Picture Editing, and Film Sound Design. This foundation sharpened my eye for detail, structure, and appealing user inerface and experience design thereby influencing my work in software development today.
 
 In 2021, I transitioned fully into the world of technology, where I discovered a deeper interests in computer programming, web application development, and data analytics. Since then, I have dedicated myself to continous learning and building of functional applications. Within the space of three years thence, i taught computer programing and robotics as part of STEM program in a number of schools within the Accra metropolis and mentored others in programming fundamentals and practical development skills.
 
