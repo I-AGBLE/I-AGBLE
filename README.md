@@ -1,5 +1,12 @@
-# 💫 About Isak AGBLE:
-I'm a freelance Web App Developer 💻 and Computer Programming Tutor 📘.<br>My aim is to build functional web applications ⚙️ and help others learn to code 🧠.<br>I'm currently exploring Machine Learning 🤖 and Artificial Intelligence 🧬 to expand my skillset 🚀.<br><br>
+# 💫 This is Isak AGBLE:
+I am a freelance Web Application Developer and Computer Programming Tutor based in  Accra-Ghana with a multidisciplinary background that uniquely blends the creativity and technical skills. My tech journey began in the field of visual storytelling. I earned a Professional Diploma in Film and Television Techniques in 2020, specializing in Cinematography, Motion Picture Editing, and Film Sound Design. This foundation sharpened my eye for detail, structure, and user experience skills that continues to inform my work in software development today.
+
+In 2021, I transitioned fully into the world of technology, where I discovered a deeper interests in computer programming, web application development, and data analytics. Since then, I have dedicated myself to continous learning and building of functional, scalable web applications. Within the space of three years thence, i taught computer programing and robotics as part of STEM program in a number of schools within the Accra metropolis and mentored others in programming fundamentals and practical development skills.
+
+Currently, I am expanding my expertise into the fields of Machine Learning and Artificial Intelligence. My goal is not only to become highly proficient in the skillsets i learn and use, but also to share that knowledge as an educator, a developer, and a lifelong learner committed to the advancement of technology and human capability.
+
+I am therefore open to all opportunities to learning and development.
+<br><br>
 
 
 ## 🌐 Socials:
